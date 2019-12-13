@@ -1,0 +1,9 @@
+bc7d8256cde40fd0bfdc4f042f4477e9 *DESCRIPTION
+9e4adb63922851bd4730371638b1d380 *NAMESPACE
+4b797a4545d6dffc8dbb229939fc38b7 *R/client.R
+d20c738ab01f824f3ec94f9b232007a6 *R/pipeline.R
+5561f37ed3c76a9cacb0256e6725db36 *README.md
+fc812f90e6b212cca2a339a8b287a531 *man/StanfordCoreNLP_Pipeline.Rd
+62d831f4ef18c49c9fd4e3acda5b8104 *man/nlp_server_docker_run.Rd
+53cec1fabfc05315b9e70d299aedefd0 *man/ping_nlp_client.Rd
+05b1bf90de56a52cbda30e8fdbedce81 *tests/NLPclient.R
